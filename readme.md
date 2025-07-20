@@ -44,7 +44,7 @@ This project aims to provide a centralized platform for:
 
 For contributions, suggestions, or inquiries:
 
-* 👨‍💻 Developed by: **\[Abdullah]**
+* 👨‍💻 Developed by: **\Abdullah**
 * 📧 Email: \[[abdullahawan00119@gmail.com](mailto:abdullahawan00119@gmail.com)]
 * 🏛️ Institution: SMIT
 
