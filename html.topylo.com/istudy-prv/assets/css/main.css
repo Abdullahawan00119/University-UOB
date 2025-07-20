@@ -10175,7 +10175,7 @@ code {
   border-radius: 6px;
   transition: all 0.3s linear;
 }
-.bd-category-children {
+/* .bd-category-children {
   position: relative;
 }
 .bd-category-children::after {
@@ -10184,7 +10184,7 @@ code {
   right: 20px;
   top: 12px;
   font-family: var(--ff-fontawesome);
-}
+} */
 
 .bd-sticky {
   position: fixed !important;
@@ -12137,7 +12137,7 @@ code {
   font-size: 20px;
   line-height: 1.5;
   color: var(--bd-white);
-  padding: 10px;
+  padding: 10px 20px;
   text-transform: capitalize;
 }
 .main-menu-2 li a:hover {
@@ -12190,8 +12190,8 @@ code {
 }
 
 .main-menu li .has-arrow > a::before {
-  content: "\f107";
-  font-family: var(--ff-fontawesome);
+  /* content: "\f107";
+  font-family: var(--ff-fontawesome); */
   font-weight: 600;
   position: absolute;
   right: 32px;
@@ -12280,8 +12280,6 @@ code {
 }
 
 .main-menu > ul > li > a::after {
-  content: "\f107";
-  font-family: var(--ff-fontawesome);
   margin-left: 5px;
   font-weight: 500;
   font-size: 14px;
